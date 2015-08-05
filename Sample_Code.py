@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 
 def main():
-    print "This is my sample code for CI purposes."
+    print "This is my sample code for CI purposes. -2"
 
 if __name__ == '__main__':
     main()
